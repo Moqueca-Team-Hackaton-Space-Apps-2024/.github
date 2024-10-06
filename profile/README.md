@@ -4,11 +4,6 @@
 
 We are a team of engineers ⚙️ passioned about space science 🚀🪐 participating on the NASA International Space Apps 2024 Challenge in Gijon, Spain✨.
 
-https://www.linkedin.com/in/eduardolop/
-https://www.linkedin.com/in/aebrag/
-https://www.linkedin.com/in/manuel-s%C3%A1nchez-poncela-657b6b103/
-https://www.linkedin.com/in/efr%C3%A9n-fdez-garc%C3%ADa-5a89a7169/
-https://www.linkedin.com/in/jaime-garcia-represa/
 
 ### `> for i in $​🪤​🐁​🧪​🖥; do; echo "$i"; done`
 
@@ -20,7 +15,13 @@ We have chosen the challenge titled "Seismic Detection Across the Solar System",
 - Normally, quakes are rare events, meaning that although large amounts of continuous data are recorded and transmitted back to Earth, for scientist only a small fraction of this data contains useful information.🧵🔍🌾🕵️‍♂️
 - So we will propose solutions to fix this issue, with Free and open knowledge 📖
 
+### You can find more information about the team members 🤝🌟🚀
 
+https://www.linkedin.com/in/eduardolop/ \
+https://www.linkedin.com/in/aebrag/ \
+https://www.linkedin.com/in/manuel-s%C3%A1nchez-poncela-657b6b103/ \
+https://www.linkedin.com/in/efr%C3%A9n-fdez-garc%C3%ADa-5a89a7169/ \
+https://www.linkedin.com/in/jaime-garcia-represa/
 
 <!-- Useful links:
 - emojipedia:  https://emojipedia.org/
